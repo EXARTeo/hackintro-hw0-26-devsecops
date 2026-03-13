@@ -8,7 +8,7 @@ on:
         docker_image:
           description: 'The Docker image to scan'
           required: true
-          default: 'ai/granite-docling:latest'
+          default: 'ghcr.io/EXARTeo/hackintro-hw0-26-devsecops:latest'
 
 # env:
 #   REGISTRY: ghcr.io
